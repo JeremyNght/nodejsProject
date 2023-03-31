@@ -16,6 +16,8 @@ git clone https://github.com/JeremyNght/iut-encrypt.git
 npm install
 ```
 
+#### Attention si vous utilisez Windows, il  peux y avoire une erreur avec les modules si c'est la cas supprimer le dossier "node_modules" et relancer la commande "npm install"
+
 3. Créez un fichier .env à la racine du projet et ajoutez-y les informations suivantes :
 
 ```bash
