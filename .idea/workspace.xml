@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0e22c67-ed6f-4328-a968-3bf2dffa4b5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/migrations/2-user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/mail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/mailer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knexfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/auth/strategies/jwt.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/auth/strategies/jwt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/migrations/0-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/migrations/0-user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/migrations/1-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/migrations/1-user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/plugins/@hapi.jwt.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/plugins/@hapi.jwt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/plugins/@hapipal.schmervice.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/plugins/@hapipal.schmervice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/plugins/@hapipal.schwifty.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/plugins/@hapipal.schwifty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.env-keep" beforeDir="false" afterPath="$PROJECT_DIR$/server/.env-keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/swagger.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/swagger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NNYG5cpF4zc29VevuNoxF5Mzuk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jerem/Desktop/iut_nodejs_project-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0e22c67-ed6f-4328-a968-3bf2dffa4b5b" name="Changes" comment="" />
+      <created>1679505907932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679505907932</updated>
+      <workItem from="1679505908970" duration="606000" />
+      <workItem from="1679934656920" duration="4619000" />
+      <workItem from="1680020295254" duration="3027000" />
+      <workItem from="1680105680438" duration="1204000" />
+      <workItem from="1680270426569" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
